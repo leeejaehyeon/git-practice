@@ -1,0 +1,12 @@
+total 0
+drwxr-xr-x 1 이재현 197620 0 Oct 19 21:39 README.md/
+drwxr-xr-x 1 이재현 197620 0 Oct 19 21:39 classification_experiment.py/
+-rw-r--r-- 1 이재현 197620 0 Oct 19 21:46 classification_experiment.py.txt
+-rw-r--r-- 1 이재현 197620 0 Oct 19 22:03 file_list.txt
+drwxr-xr-x 1 이재현 197620 0 Oct 19 21:39 hello_world/
+-rw-r--r-- 1 이재현 197620 0 Oct 19 21:47 hello_world.txt
+-rw-r--r-- 1 이재현 197620 0 Oct 19 21:44 history_command.txt
+drwxr-xr-x 1 이재현 197620 0 Oct 19 21:44 myscript.sh/
+-rw-r--r-- 1 이재현 197620 0 Oct 19 21:45 sorted_words.txt
+drwxr-xr-x 1 이재현 197620 0 Oct 19 21:39 test.sh/
+-rw-r--r-- 1 이재현 197620 0 Oct 19 21:45 words.txt
